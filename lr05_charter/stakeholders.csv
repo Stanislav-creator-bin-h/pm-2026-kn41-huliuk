@@ -1,1 +1,7 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Завідувач навчальної частини,Університет,high,high,supporter,manage_closely,PM
+ST-02,Декани факультетів (5 осіб),Університет,low,high,neutral,keep_satisfied,PM
+ST-03,Викладачі (кінцеві користувачі),Університет,high,low,supporter,keep_informed,BA
+ST-04,Системний адміністратор університетської мережі,ІТ-відділ університету,low,high,neutral,keep_satisfied,Dev
+ST-05,Студенти (потенційні користувачі у майбутньому),Університет,low,low,neutral,monitor,BA
+ST-06,PM (Гулюк Станіслав),Команда проєкту,high,high,supporter,manage_closely,PM
