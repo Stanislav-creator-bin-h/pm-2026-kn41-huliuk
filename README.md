@@ -14,8 +14,8 @@
 | Підгрупа | КН-41 |
 | Тема проєкту | Сервіс бронювання аудиторій і обладнання з погодженням заявок. |
 | Варіант вхідних умов | V11 |
-| Трекер | посилання |
-| Дошка | посилання |
+| Трекер | [GitHub Projects](https://github.com/users/Stanislav-creator-bin-h/projects/1) |
+| Дошка | [GitHub Projects Board](https://github.com/users/Stanislav-creator-bin-h/projects/1/views/1) |
 | Валюта проєкту | для кошторису ЛР16 |
 | Contingency, % | від прямих витрат, ЛР16 |
 
