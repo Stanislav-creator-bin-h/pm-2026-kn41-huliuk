@@ -1,1 +1,3 @@
 change_id,date,source,description,story_ids,points_delta,decision,rationale,affected_files
+CH-01,2026-11-09,course_event,Вимога служби інформаційної безпеки щодо аудиту дій користувачів та захисту персональних даних,S-01;S-02;S-14,0,accepted,Вимоги безпеки покрито через посилення DoD та оновлення критеріїв історій S-01 та S-02 без перенесення дедлайну,lr06_backlog/backlog.csv;lr11_risks_quality/risks.csv;lr11_risks_quality/dod.md
+CH-02,2026-10-23,customer,Уточнення замовника щодо імпорту довідників аудиторій з наявних історичних файлів,S-11,3,accepted,Переоцінка історії каталогу S-11 з 2 до 5 points у зв'язку з необхідністю очищення та валідації даних,lr08_poker/estimates.csv;lr07_wbs/wbs.csv;lr08_poker/votes.csv
