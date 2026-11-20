@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.25,80,520,https://jobs.dou.ua/salaries/,Керівник проєкту (ставка за оглядом DOU 2025/2026)
+BA,0.50,160,460,https://jobs.dou.ua/salaries/,Бізнес-аналітик (ставка за оглядом DOU 2025/2026)
+Dev,2.00,640,480,https://jobs.dou.ua/salaries/,Розробники (2 особи по 1.0 FTE за оглядом DOU 2025/2026)
+QA,0.50,160,420,https://jobs.dou.ua/salaries/,QA-інженер (ставка за оглядом DOU 2025/2026)
